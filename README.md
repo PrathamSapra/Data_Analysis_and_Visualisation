@@ -26,15 +26,12 @@ Tutorials and examples for data visualization using Seaborn and Matplotlib.
 - **Seaborn.ipynb**: Complete Seaborn tutorial with examples of line plots, bar plots, scatter plots, heatmaps, pair plots, and more.
 - **hr_data.csv**: Sample HR dataset used for visualization exercises.
 
-### 3. `Datasets/`
-A collection of datasets used throughout the tutorials.
+### 3. `Matplotlib`
 
-- **sample2.csv**: Example dataset for pandas pivot table and aggregation exercises.
-- *(Add more datasets as needed)*
 
 ---
 
-## 📚 Key Topics Covered
+## 📚 Key Topics Covered in Matplotlib
 
 - Data manipulation with pandas
 - Data cleaning and preprocessing
